@@ -3,20 +3,20 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names, as they appear on the class roster?
-> ...Kathy Kamp (kk)
+> ...Kathy Kamp (kk) & Bao Tran (tranbaoq)
 
 What are your GitHub usernames?
-> .KathyKamp (kk)..
+> .KathyKamp (kk).. & tranbaoq
 
 What do you prefer to be called?
-> .Kathy(kk)
+> .Kathy(kk) & Bao 
 ..
 
 Why are you taking this course?
 > to learn D3 (kk)...
 
 What are your concerns about this course?
-> ..Inadequate background (kk).
+> ..Inadequate background (kk). 
 
 What topic in this course are you most excited to cover?
 > D3 and best visualization practices...
